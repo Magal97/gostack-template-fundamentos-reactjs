@@ -45,6 +45,7 @@ export const Card = styled.div`
     font-weight: normal;
     line-height: 54px;
   }
+
 `;
 
 export const TableContainer = styled.section`
@@ -93,3 +94,5 @@ export const TableContainer = styled.section`
     }
   }
 `;
+
+
